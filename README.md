@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franco Alvarez</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=francoalvarez2002&label=Profile%20views&color=0e75b6&style=flat" alt="francoalvarez2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francoalvarez2002" alt="francoalvarez2002" /></a> </p>
-
 - 🔭 I’m currently working on **Free Lancer**
 
 - 📫 How to reach me **francoalvarezc2002@gmail.com**
